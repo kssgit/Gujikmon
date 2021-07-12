@@ -45,5 +45,5 @@
 
 - 클라우드 활용 프로젝트 4조 발표자료
 
-  [클라우드 활용 프로젝트 포트폴리오](.포트폴리오_DevOps.pdf)
+  [클라우드 활용 프로젝트 포트폴리오](https://github.com/kssgit/Gujikmon/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_DevOps.pdf)
 
