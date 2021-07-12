@@ -15,11 +15,15 @@
 
   담당자: 김성수
 
+  원본 git repository : https://github.com/SanhaJung/gujikmon_api
+
   DRF(Django rest framework)를 이용한 API 서버
 
 - [gujikmon_certificate_server](./gujikmon_certificate_server)
 
   담당자: 김성수
+
+  원본 git repository : https://github.com/SanhaJung/gujikmon_certificate_server
 
   카카오 및 구글 로그인 api를 사용한 로그인 인증 서버
 
@@ -27,11 +31,15 @@
 
   담당자: 정산하
 
+  원본 git repository : https://github.com/SanhaJung/gujikmon_DB_server
+
   워크넷에 등록된 채용정보를 매일 자정 기준으로 DB에 업데이트하는 스케쥴러 서버
 
 - [gujikmon_front](./gujikmon_front)
 
   담당자: 고재경, 이반석
+
+  원본 git repository : https://github.com/SanhaJung/gujikmon_front
 
   React를 사용한 foront-end 서버
 
