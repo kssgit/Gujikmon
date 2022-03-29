@@ -9,7 +9,7 @@
 
 
 
-### 파일 내용 정리
+### 담당 개발 파트
 
 - [gujikmon_api](./gujikmon_api)
 
