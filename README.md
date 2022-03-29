@@ -8,6 +8,9 @@
 팀원 : 정산하, 김성수, 고재경, 이반석
 
 
+### 주요 스킬 셋
+
+- Python3, Django(Django restframework), MongoDB, javaScript(ES6), React
 
 ### 담당 개발 파트
 
