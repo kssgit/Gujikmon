@@ -10,7 +10,10 @@
 
 ### 주요 스킬 셋
 
-- Python3, Django(Django restframework), MongoDB, javaScript(ES6), React
+언어 : Python3, javaScript(ES6)
+프레임워크 : Django, React
+DB : MongoDB
+서버 : AWS EC2
 
 ### 담당 개발 파트
 
